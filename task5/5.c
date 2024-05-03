@@ -1,0 +1,1 @@
+//Write a program for decrement an integer value using Pointer take an input from user

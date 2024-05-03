@@ -1,0 +1,1 @@
+//Write a program for taking two numbers from user and multiply them using pointer.

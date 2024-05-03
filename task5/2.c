@@ -1,0 +1,1 @@
+//Write a Program to find out the greatest of two numbers using pointer. 
